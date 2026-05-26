@@ -1,1 +1,1 @@
-customizing git soon
+${\textsf{\color{#575757}customizing git soon}}$
