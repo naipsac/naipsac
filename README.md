@@ -1,6 +1,6 @@
 ${\textsf{\color{#575757}customizing git soon}}$
 
-<a href="https://https://naipsac.atabook.org">ata</a>
+<a href="https://naipsac.atabook.org">ata</a>
 
 <details>
 <summary> ${\textsf{\color{#949494}interests/etcetera}}$ </summary>
