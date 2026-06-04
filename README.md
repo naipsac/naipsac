@@ -8,5 +8,5 @@
 <div align="center">
 <details>
 <summary> ${\textsf{\color{#a37299}interests/etcetera}}$ </summary>
-  ${\textsf{\color{#856673}Dandy's World, Skyrim, Castlevania, KPop(XLOV, ATEEZ, Stray Kids, TVXQ!, NCT, TAEMIN, SHINee..}}$      ${\textsf{\color{#695358}laconic and unsociable. i dont enjoy prolonged conversations.}}$ ${\textsf{\color{#524445}hide/block freely freely}}$
+  ${\textsf{\color{#856673}Dandy's World, Skyrim, Castlevania, KPop(XLOV, ATEEZ, Stray Kids, TVXQ!, NCT, TAEMIN, SHINee...)}}$      ${\textsf{\color{#695358}laconic and unsociable. i dont enjoy prolonged conversations.}}$ ${\textsf{\color{#524445}hide/block freely}}$
 </div>
